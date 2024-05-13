@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="/template.html">Página principal</a></li>
+                <li><a href="/sobre.html">Sobre a clinica</a></li>
+                <li><a href="/horario.html">Horário de atendimento</a></li>
+                <li><a href="/contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                        <!-- Aqui vai o seu header -->
+                        <img src="queroquiropraxia.jpg" width="150">       
+                    </div>
+            </div>
+    
+            <div class="content">
+                <h1>O que é Quiropraxia?</h1>
+                    <p>Segundo a Organização Mundial da Saúde (OMS), a “Quiropraxia é uma profissão da saúde que lida com o diagnóstico, o tratamento e a prevenção das desordens do sistema neuro-músculo-esquelético e dos efeitos destas desordens na saúde em geral”. Consta de manobras manuais no corpo do paciente visando principalmente a coluna e as articulações.</p>
+                    <p>Entre os principais objetivos da Quiropraxia destaca-se a atuação sobre a coluna vertebral com vistas a garantir que o sistema nervoso, assim como todo o corpo, estejam operando em sua plenitude. Faz uso de manobras no corpo do paciente para restaurar as condições das articulações, além de orientar hábitos e posturas.</p>
+                    <p>A Quiropraxia no Brasil é reconhecida como especialização da Fisioterapia. Existem, no entanto, duas instituições de ensino superior que oferecem a formação específica em Quiropraxia.</p>
+                    <p>Em todo o mundo existem mais de 100 mil profissionais de Quiropraxia, conforme a Organização das Nações Unidas (ONU). E essa área segue em desenvolvimento, sendo uma das que apresentam grandes oportunidades de crescimento.</p>
+            </div>
+    
+            <div class="footer">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15005.955222218707!2d-44.02101274458006!3d-19.9037963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa697277f236ec9%3A0xe1be2c841d021207!2sLuana%20Cayris%20Nutricionista%20-%20Cl%C3%ADnica%2C%20Esportiva%20e%20Est%C3%A9tica!5e0!3m2!1spt-BR!2sbr!4v1691115492307!5m2!1spt-BR!2sbr" width="340" height="230" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="complemento">
+                    <h2>Contatos</h2>
+                    <p>Telefone: +55 (31) 9999-9999</p>
+                    <p>Email: QueroQuiro@Quiro.com.br</p>
+                </div>
+            </div>            
+        </div>
+    </div>
+</body>
+</html>
